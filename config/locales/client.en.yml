@@ -1,0 +1,8 @@
+en:
+  admin_js:
+    admin:
+      api:
+        scopes:
+          descriptions:
+            private_messages:
+              list: Get a list of private messages for a user
